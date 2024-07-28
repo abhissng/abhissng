@@ -90,7 +90,7 @@ You can click the Preview link to take a look at your changes.
 <img width= "46%" title="Redirect's to Abhishek Github" src="https://github-readme-streak-stats.herokuapp.com/?user=abhissng&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 <a href ="https://github.com/abhissng" title="Redirect's to Abhishek Github">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhissng&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
+<img width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhissng&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 
 <a href="https://github.com/abhissng" title="Redirects to Abhishek page">
 <img width="46%" src="https://leetcard.jacoblin.cool/abhissng" /></a>
