@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a> 
 <a href="mailto:abhi_me99@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-D148363?style=for-the-badge&logo=outlookl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Outlook-blue?style=for-the-badge&logo=outlookl&logoColor=white"/>
 </a>
 <a href="https://twitter.com/abhissng">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="40px" height="40px">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jpostgresql/postgresql-original-wordmark.svg" width=40px heigth=50px >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width=40px heigth=50px >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40px heigth=50px >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=40px heigth=50px >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original-wordmark.svg" width=40px heigth=50px >
@@ -90,10 +90,10 @@ You can click the Preview link to take a look at your changes.
 <img width= "49%" title="Redirect's to Abhishek Github" src="https://github-readme-streak-stats.herokuapp.com/?user=abhissng&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 <a href ="https://github.com/abhissng" title="Redirect's to Abhishek Github">
-<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhissng&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhissng&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 
 <a href="https://github.com/abhissng" title="Redirects to Abhishek page">
-<img width="53%" src="https://leetcard.jacoblin.cool/abhissng" /></a>
+<img width="49%" src="https://leetcard.jacoblin.cool/abhissng" /></a>
 
 </p>
 
