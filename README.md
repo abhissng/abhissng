@@ -63,13 +63,15 @@ You can click the Preview link to take a look at your changes.
 
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="35px" height="35px">
 </p>
-## **Wanna know more about me?** 
+
+## **Wanna know more about me?**
+
 **Send me an email** : abhi_me99@outlook.com
 
 <!--
 ## **GitHub Trophies :**
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
-
+<!--
 <p align="center">
 <a href="https://github.com/username"><img src="https://github-profile-trophy.vercel.app/?username=username&rank=SSS,SS,S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="username"/></a>
 </p>
@@ -102,7 +104,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align =center>
 
-[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhissng&custom_title=Jiganesh's%20Activity&hide_border=true&theme=react-dark)](https://github.com/abhissng/github-readme-activity-graph)
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhissng&custom_title=Abhishek's%20Activity&hide_border=true&theme=react-dark)](https://github.com/abhissng/github-readme-activity-graph)
 
 </div>
 
